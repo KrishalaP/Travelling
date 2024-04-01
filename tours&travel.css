@@ -1,0 +1,72 @@
+header{
+        background-color:#0691E4;
+        }
+#first{
+        width: auto;
+        padding: 150px;
+        background-image: url(1.jpg);
+        background-repeat: no-repeat;
+        background-position: right;
+       
+       
+    }
+.third{
+        padding: 50px;
+        background-color: #EEF2F6;
+        text-align: center;
+        padding-top: 50px;
+        padding-bottom: 50px;
+        padding-left: 300px;
+    }
+#purple{
+    
+        background-color:#0691E4;
+    }
+
+
+.third h2{
+   padding-right: 350px;
+    }
+    .fourth{
+        padding: 50px;
+    }
+#box1 {
+    box-shadow: 0px 0px 10px 5px rgba(0, 0, 0, 0.5);
+    }
+#box2 {
+        box-shadow: 0px 0px 10px 5px rgba(0, 0, 0, 0.5);
+        }
+#box3 {
+            box-shadow: 0px 0px 10px 5px rgba(0, 0, 0, 0.5);
+            }
+#box4 {
+                box-shadow: 0px 0px 10px 5px rgba(0, 0, 0, 0.5);
+                }
+#box5 {
+                    box-shadow: 0px 0px 10px 5px rgba(0, 0, 0, 0.5);
+                    }
+#box6{
+                        box-shadow: 0px 0px 10px 5px rgba(0, 0, 0, 0.5);
+                        }
+#sixth{
+    padding: 50px;
+    background-color:white;
+    padding-left: 400px;
+}
+.btn-primary:hover {
+    background-color: green; 
+    color: black; 
+}
+footer{
+   
+    padding-left: 100px;
+    padding-top: 5px;
+}
+
+footer .row{
+    padding-left: 100px;
+
+}
+#contact{
+    padding-left: 100px;
+}
