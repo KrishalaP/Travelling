@@ -70,3 +70,14 @@ footer .row{
 #contact{
     padding-left: 100px;
 }
+.fifth .col-md-4 {
+    margin-bottom: 20px; 
+}
+@media (max-width: 768px) {
+    #first {
+        padding: 150px 50px; 
+    }
+    .navbar-nav {
+        flex-wrap: nowrap;
+    }
+}
